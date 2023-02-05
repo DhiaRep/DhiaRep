@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhiaRep
-- 👀 I’m interested in web devolepment.
-- 🌱 I’m currently learning Angular and Linux.
+- 👀 I’m interested in web development and ERP.
+- 🌱 I’m currently learning microsoft dynamics 365.
 - 📫 Reach me on dhia.othmani@enicar.ucar.tn
 
 <!---
